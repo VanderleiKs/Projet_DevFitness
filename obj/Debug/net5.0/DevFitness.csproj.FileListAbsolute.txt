@@ -1,0 +1,16 @@
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\bin\Debug\net5.0\DevFitness.exe
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\bin\Debug\net5.0\DevFitness.deps.json
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\bin\Debug\net5.0\DevFitness.runtimeconfig.json
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\bin\Debug\net5.0\DevFitness.runtimeconfig.dev.json
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\bin\Debug\net5.0\DevFitness.dll
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\bin\Debug\net5.0\ref\DevFitness.dll
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\bin\Debug\net5.0\DevFitness.pdb
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\obj\Debug\net5.0\DevFitness.csproj.AssemblyReference.cache
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\obj\Debug\net5.0\DevFitness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\obj\Debug\net5.0\DevFitness.AssemblyInfoInputs.cache
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\obj\Debug\net5.0\DevFitness.AssemblyInfo.cs
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\obj\Debug\net5.0\DevFitness.csproj.CoreCompileInputs.cache
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\obj\Debug\net5.0\DevFitness.dll
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\obj\Debug\net5.0\ref\DevFitness.dll
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\obj\Debug\net5.0\DevFitness.pdb
+C:\Users\vande\Documents\Visual_Estudio_Projects\curso-c#\DevFitness\DevFitness\obj\Debug\net5.0\DevFitness.genruntimeconfig.cache
